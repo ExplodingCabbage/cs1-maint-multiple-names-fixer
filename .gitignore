@@ -1,0 +1,5 @@
+# Standard Python cruft:
+__pycache__
+
+# Secrets:
+conf.py
